@@ -1,0 +1,19 @@
+{
+  "repositories": [
+    {
+      "type": "package",
+        "package": {
+          "name": "lavoiesl/php-benchmark",
+          "version": "master",
+          "source": {       
+            "url": "https://github.com/lavoiesl/php-benchmark.git",
+            "type": "git",
+            "reference": "master"
+          }
+        }
+      }
+  ],
+  "require": {
+    "lavoiesl/php-benchmark": "*"
+  }
+}
