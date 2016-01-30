@@ -15,5 +15,8 @@
   ],
   "require": {
     "lavoiesl/php-benchmark": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.8.*"
   }
 }
