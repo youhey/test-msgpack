@@ -1,0 +1,12 @@
+# Global
+
+.DS_Store
+*~
+*.swp
+
+# PHP
+
+/vendor/*
+/tmp/*
+/logs/*
+
